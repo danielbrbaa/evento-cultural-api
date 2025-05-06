@@ -1,6 +1,6 @@
-# API Evento Cultural
+# API ChatBot
 
-Esta API REST foi desenvolvida para gerenciar eventos culturais, permitindo o cadastro de eventos, artistas, locais e a venda de ingressos.
+Esta API REST foi desenvolvida para gerenciar perguntas e respostas, permitindo o cadastro de perguntas, respostas, locais de busca e o cadastro de usuário.
 
 ## Tecnologias Utilizadas
 
